@@ -13,3 +13,38 @@
     color: rgb(87, 0, 248);
 }
 
+
+/*brownies page*/
+
+.brownies-page {
+    background-color: rgba(165, 77, 42, 0.493);
+}
+
+.brownies-page li {
+    font-size: 14px;
+}
+
+.brownies-heading {
+    color: rgb(10, 89, 235);
+    font-family: "Brush Script MT", cursive;
+}
+
+.ingredients,
+.frosting,
+.steps {
+    color:crimson;
+    font-family: "Brush Script MT", cursive;
+    font-size: 24px;
+}
+
+.ingredients-ul li {
+    color: purple;
+}
+
+.frosting-ul li {
+    color: rgb(230, 9, 174);
+}
+
+.steps-ol li {
+    color:rgb(226, 0, 0);
+}
