@@ -1,0 +1,15 @@
+/*index page*/
+
+.homepage {
+    background-color: lightskyblue;
+}
+
+.topic {
+    font-family: "Lucida Console", monospace;
+    color: white;
+}
+
+.link {
+    color: rgb(87, 0, 248);
+}
+
